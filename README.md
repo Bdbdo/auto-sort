@@ -1,5 +1,4 @@
-# auto-sort
-Auto Sort – Clean Your Chaos
+
 # 🧹 Auto Sort – Clean Your Chaos
 
 Auto Sort is a smart desktop app that automatically organizes your files by type (documents, images, videos, music, etc.) — so you don’t have to!
