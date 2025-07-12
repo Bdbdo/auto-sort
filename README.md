@@ -25,4 +25,4 @@ Auto Sort is a smart desktop app that automatically organizes your files by type
 
 ## 👨‍💻 Made by
 
-Ahmed – Egypt
+Ahmed 
